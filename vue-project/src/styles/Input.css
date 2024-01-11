@@ -1,0 +1,17 @@
+.mainInput {
+  width: 70vw;
+  height: 50px;
+
+  position: fixed;
+  bottom: 10vh;
+  left: 15vw;
+
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 2px solid #998d8d;
+}
+
+.mainInput:focus {
+  border: none;
+}
